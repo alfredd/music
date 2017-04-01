@@ -1,0 +1,1 @@
+This project contains pieces from Trinity Piano Pieces & Exercises books. I have transcribed these pieces into keys different from the original. The idea is that this will help me understand the pieces better.
